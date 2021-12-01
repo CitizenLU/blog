@@ -1,7 +1,10 @@
 # 1.jdk安装与配置
 
 下载并安装这个版本的jdk
-![jdk](https://raw.githubusercontent.com/CitizenLU/blog/main/images/20210102005004707_10210.png)
+
+![image-20211201233247085](https://images-lu.oss-cn-shanghai.aliyuncs.com/image-20211201233247085.png)
+
+
 
 全程下一步，jre默认安装在 C:\Program Files\Java\jre1.8.0_251 ， jdk默认安装在 C:\Program Files\Java\jdk1.8.0_251 
 
