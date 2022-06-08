@@ -103,5 +103,9 @@ mysql> USE doctor;
 
 
 
+```
+docker run -d -v /srv/jellyfin/config:/config -v /srv/jellyfin/cache:/cache -v /data_disk/media:/media --net=host jellyfin/jellyfin:latest
+```
+
 
 

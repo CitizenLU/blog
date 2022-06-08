@@ -21,7 +21,7 @@ python是强类型语言，python定义变量时不需要声明类型，python�
 
 3.可以用中文定义变量，但一般不用
 
-## Python数据类型
+## 1. Python数据类型
 
 - Numbers（数字）
 - String（字符串）
@@ -29,7 +29,7 @@ python是强类型语言，python定义变量时不需要声明类型，python�
 - Tuple（元组）不能二次赋值，相当于只读的列表。
 - Dictionary（字典）无序，键值对
 
-### Numbers数字
+### 1.1 Numbers数字
 
 int（有符号整型）
 
@@ -39,7 +39,7 @@ float（浮点型）
 
 complex（复数）
 
-### String字符串
+### 1.2 String字符串
 
 1. python的`''`和`""`都可以表示字符串
 
@@ -54,7 +54,7 @@ print(type(str1[1])) # 打印str1[1]的数据类型为str
 print(str2[0]) # 将会打印字符串"x"
 ```
 
-### List列表
+### 1.3 List列表
 
 ```python
 list1 = [10, 20, 30] # 声明一个列表
@@ -76,4 +76,12 @@ print(tuple[0]) # 打印下标为1的元素
 ```
 
 ### Dictionary字典
+
+
+
+```python
+aa={'a':'abc','b':'bcd'}
+```
+
+
 
